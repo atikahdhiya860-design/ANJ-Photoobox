@@ -74,4 +74,4 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-```kotlin
+<p2> 2. Halaman Dashboard (DashboardActivity)</p2>
