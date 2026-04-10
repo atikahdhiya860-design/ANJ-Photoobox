@@ -74,4 +74,5 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-2. Halaman Dashboard (DashboardActivity)
+
+### 2. Halaman Dashboard (DashboardActivity)
