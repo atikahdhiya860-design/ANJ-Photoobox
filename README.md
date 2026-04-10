@@ -73,3 +73,26 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+
+### 🔹 P3.2 DashboardActivity (Halaman Dashboard)
+
+**Fungsi:**  
+Menampilkan halaman dashboard setelah pengguna berhasil login dari halaman utama.
+
+---
+
+#### a. Source Code
+```kotlin
+package com.example.anjphotobox
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+
+class DashboardActivity : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_dashboard)
+    }
+}
