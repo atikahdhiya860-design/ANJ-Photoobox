@@ -1,3 +1,12 @@
+# ANJ PHOTOBOX
+KELOMPOK 8
+Anggota:
+- [Atikah Dhiya Asholihah] - [L0324028]
+- [Nadiva Meiliya] - [L0324028]
+- [Sulthanah Jihan Zyarifah] - [L0324024]
+
+---
+
 ## Deskripsi
 
 Project ini merupakan hasil praktikum Pemrograman Mobile minggu ke-3 yang berfokus pada implementasi Activity dan Intent dalam pengembangan aplikasi Android.
