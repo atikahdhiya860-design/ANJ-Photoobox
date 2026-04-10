@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
 }
 
 
-### 🔹 P3.2 DashboardActivity (Halaman Dashboard)
+### 2. DashboardActivity (Halaman Dashboard)
 
 **Fungsi:**  
 Menampilkan halaman dashboard setelah pengguna berhasil login dari halaman utama.
